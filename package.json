@@ -1,13 +1,9 @@
 {
-  "name": "vue-ics",
+  "name": "bmw-ics",
   "description": "Vue.js plugin for generating ICalendar (.ics) files.",
   "version": "0.1.2",
-  "author": "Stanislav Mihaylov <ceo@pepper.llc>",
+  "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/evildvl/vue-ics.git"
-  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
